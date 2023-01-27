@@ -1,0 +1,21 @@
+_id: req_e4649d34bc40474bae422174de5679ef
+type: Request
+parentId: fld_f65249de60204fccbb6191d0cd15ea40
+modified: 1674798687743
+created: 1674798687743
+url: "{{ _.host }}/products"
+name: index
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1674798401577
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

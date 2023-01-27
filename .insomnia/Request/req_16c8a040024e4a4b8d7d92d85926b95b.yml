@@ -1,0 +1,32 @@
+_id: req_16c8a040024e4a4b8d7d92d85926b95b
+type: Request
+parentId: fld_67a46724687145deac4d90c22065f8fe
+modified: 1674798714735
+created: 1674798714735
+url: "{{ _.host }}/users"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Hilg Armfull",
+    	"email": "hilg@gmail.com",
+    	"password": "test1234",
+    	"address": "street test",
+    	"cart": []
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1674798147764
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

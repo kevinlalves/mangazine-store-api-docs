@@ -1,0 +1,31 @@
+_id: req_9c95f34d3e3447d48de2565642d234f9
+type: Request
+parentId: fld_67a46724687145deac4d90c22065f8fe
+modified: 1674798714734
+created: 1674798714734
+url: "{{ _.host }}/users"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "John Armfull",
+    	"email": "jonh@gmail.com",
+    	"password": "test123",
+    	"address": "street test"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1674798005751
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

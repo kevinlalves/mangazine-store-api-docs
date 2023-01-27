@@ -1,0 +1,21 @@
+_id: req_c2b31c6cec9e43c08fd586ca9187cc6c
+type: Request
+parentId: fld_f65249de60204fccbb6191d0cd15ea40
+modified: 1674798687742
+created: 1674798687742
+url: "{{ _.host }}/products"
+name: update
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1674798328470
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_8acfd6a3893d4560915d4df25bbb76ad
+type: Request
+parentId: fld_e40400a456224aba884e7ff366c04b82
+modified: 1674798721084
+created: 1674798721084
+url: "{{ _.host }}/auth/sign-in"
+name: sign-in
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"emaail": "kevin.alves.dev@gmail.com",
+    	"password": "absoluteaijou"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1674775904499
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
