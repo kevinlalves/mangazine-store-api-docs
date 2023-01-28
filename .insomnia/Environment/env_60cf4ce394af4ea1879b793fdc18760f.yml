@@ -1,0 +1,14 @@
+_id: env_60cf4ce394af4ea1879b793fdc18760f
+type: Environment
+parentId: env_000ff0c3eca4b5f069bad64746e05d7f2e124cc0
+modified: 1674852226316
+created: 1674850848969
+name: production
+data:
+  host: http://100.25.111.183
+dataPropertyOrder:
+  "&":
+    - host
+color: null
+isPrivate: false
+metaSortKey: 1674850848969
