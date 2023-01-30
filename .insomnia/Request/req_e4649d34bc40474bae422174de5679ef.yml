@@ -1,9 +1,9 @@
 _id: req_e4649d34bc40474bae422174de5679ef
 type: Request
 parentId: fld_f65249de60204fccbb6191d0cd15ea40
-modified: 1674798687743
+modified: 1675082983290
 created: 1674798687743
-url: "{{ _.host }}/products"
+url: "{{ _.host }}/products?per=222&page=1"
 name: index
 description: ""
 method: GET

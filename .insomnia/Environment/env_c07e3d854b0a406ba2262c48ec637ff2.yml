@@ -1,0 +1,14 @@
+_id: env_c07e3d854b0a406ba2262c48ec637ff2
+type: Environment
+parentId: env_000ff0c3eca4b5f069bad64746e05d7f2e124cc0
+modified: 1675044374987
+created: 1675044348451
+name: homolog
+data:
+  host: localhost:3000
+dataPropertyOrder:
+  "&":
+    - host
+color: null
+isPrivate: false
+metaSortKey: 1675044348451

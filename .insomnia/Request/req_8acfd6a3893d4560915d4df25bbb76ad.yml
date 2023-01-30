@@ -1,7 +1,7 @@
 _id: req_8acfd6a3893d4560915d4df25bbb76ad
 type: Request
 parentId: fld_e40400a456224aba884e7ff366c04b82
-modified: 1674870685201
+modified: 1675062886844
 created: 1674798721084
 url: "{{ _.host }}/auth/sign-in"
 name: sign-in
@@ -11,7 +11,7 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"email": "jonh@gmail.com",
+    	"email": "johnzao@gmail.com",
     	"password": "test1234"
     }
 parameters: []

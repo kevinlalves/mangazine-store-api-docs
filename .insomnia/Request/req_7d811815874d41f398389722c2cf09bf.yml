@@ -1,0 +1,32 @@
+_id: req_7d811815874d41f398389722c2cf09bf
+type: Request
+parentId: fld_a712e13bb7fa40f49ec463ffa920092f
+modified: 1675083144935
+created: 1675062527051
+url: "{{ _.host }}/checkout"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"address": "esquina da boulevard",
+    	"paymentMethod": "xerecard",
+    	"cart": []
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2M2Q3MDZjYWIxMjcxMjczYmIyNWFiNzMiLCJpYXQiOjE2NzUwODMxMzcsImV4cCI6MTY3NTE2OTUzN30.KIsMwsLRL_j-8vmdQlG9wYY1-H-c4PmU7sS0-oHMygw
+metaSortKey: -1675062527051
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
